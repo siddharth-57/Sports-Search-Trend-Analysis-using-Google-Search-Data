@@ -31,14 +31,6 @@ This mini-project analyzes Google search trends related to Football, Cricket, an
 ## 📈 Modeling
 - Linear Regression for popularity prediction
 
-## 🧪 Exploratory Data Analysis
-EDA Notebook:
-https://colab.research.google.com/drive/16iTwsq9EzSx_YfF6bbjRkfZnnzZA02Zr
-
-## 📌 Case Study
-Case Study Notebook:
-https://colab.research.google.com/drive/1ybtLJEChPdolMdMlAJsqHw8nLEBu3AVe
-
 ## 🛠️ Tools & Technologies
 - Python
 - Pandas
