@@ -1,0 +1,251 @@
+country,cricket,football,basketball
+Sierra Leone,0.01,0.98,0.01
+Liberia,0.02,0.95,0.03
+South Sudan,0.03,0.95,0.02
+Gambia,0.02,0.95,0.03
+Malawi,0.04,0.94,0.02
+Bangladesh,0.76,0.24,
+Uganda,0.02,0.95,0.03
+Sri Lanka,0.92,0.07,0.01
+Kenya,0.03,0.93,0.04
+Eritrea,,0.9,0.1
+Guyana,0.77,0.18,0.05
+Zambia,0.04,0.93,0.03
+Guinea,0.01,0.95,0.04
+United Kingdom,0.15,0.83,0.02
+Falkland Islands (Islas Malvinas),0.1,0.9,
+Isle of Man,0.1,0.88,0.02
+Nigeria,0.01,0.95,0.04
+Guernsey,0.13,0.84,0.03
+Mauritius,0.05,0.93,0.02
+Pakistan,0.89,0.1,0.01
+India,0.9,0.09,0.01
+Jersey,0.12,0.86,0.02
+Cameroon,,0.92,0.08
+Afghanistan,0.8,0.18,0.02
+Qatar,0.73,0.24,0.03
+Ireland,0.06,0.89,0.05
+Ethiopia,0.01,0.95,0.04
+Gibraltar,0.09,0.83,0.08
+Namibia,0.09,0.89,0.02
+United Arab Emirates,0.76,0.21,0.03
+Nepal,0.62,0.36,0.02
+Zimbabwe,0.16,0.79,0.05
+Seychelles,0.28,0.66,0.06
+Malta,0.04,0.91,0.05
+Montserrat,0.56,0.26,0.18
+Bahrain,0.74,0.2,0.06
+Barbados,0.58,0.36,0.06
+Ghana,0.01,0.92,0.07
+United States,0.03,0.64,0.33
+St. Vincent & Grenadines,0.65,0.29,0.06
+Vanuatu,0.13,0.8,0.07
+Rwanda,0.03,0.87,0.1
+Grenada,0.59,0.31,0.1
+Chad,,0.96,0.04
+Central African Republic,0.07,0.78,0.15
+Oman,0.78,0.18,0.04
+Solomon Islands,0.07,0.85,0.08
+Lithuania,,0.09,0.91
+Congo - Brazzaville,0.02,0.86,0.12
+Tanzania,0.06,0.9,0.04
+Botswana,0.14,0.8,0.06
+Bermuda,0.27,0.61,0.12
+Senegal,0.01,0.82,0.17
+Dominica,0.57,0.32,0.11
+Bhutan,0.25,0.64,0.11
+Congo - Kinshasa,0.06,0.85,0.09
+St. Lucia,0.51,0.41,0.08
+Togo,0.03,0.86,0.11
+Kuwait,0.77,0.18,0.05
+Haiti,0.01,0.82,0.17
+American Samoa,,0.78,0.22
+Côte d’Ivoire,0.01,0.85,0.14
+Maldives,0.53,0.44,0.03
+Comoros,,0.89,0.11
+Eswatini,0.13,0.75,0.12
+Somalia,0.03,0.93,0.04
+Jamaica,0.32,0.6,0.08
+Gabon,0.02,0.77,0.21
+Benin,0.02,0.85,0.13
+Burundi,0.05,0.82,0.13
+Myanmar (Burma),0.03,0.92,0.05
+Cayman Islands,0.22,0.59,0.19
+St. Kitts & Nevis,0.49,0.34,0.17
+Lesotho,0.11,0.82,0.07
+Guinea-Bissau,0.05,0.87,0.08
+Mali,0.02,0.86,0.12
+Burkina Faso,0.02,0.9,0.08
+Antigua & Barbuda,0.43,0.43,0.14
+Djibouti,0.08,0.81,0.11
+Mayotte,,0.74,0.26
+Anguilla,0.46,0.28,0.26
+Trinidad & Tobago,0.53,0.4,0.07
+Cyprus,0.1,0.7,0.2
+Turks & Caicos Islands,0.19,0.47,0.34
+Martinique,0.01,0.82,0.17
+Niger,0.02,0.87,0.11
+Montenegro,,0.28,0.72
+Saudi Arabia,0.82,0.13,0.05
+Faroe Islands,,0.92,0.08
+Marshall Islands,,0.35,0.65
+Australia,0.44,0.39,0.17
+Serbia,,0.26,0.74
+Brunei,0.2,0.7,0.1
+St. Helena,0.22,0.66,0.12
+Greece,0.05,0.3,0.65
+Iceland,0.02,0.8,0.18
+Sint Maarten,0.43,0.35,0.22
+New Zealand,0.48,0.37,0.15
+Guadeloupe,0.01,0.74,0.25
+Kiribati,,0.79,0.21
+St. Barthélemy,,0.74,0.26
+British Indian Ocean Territory,,1,
+Micronesia,,0.36,0.64
+French Guiana,0.04,0.72,0.24
+Equatorial Guinea,0.08,0.71,0.21
+U.S. Virgin Islands,0.2,0.4,0.4
+Monaco,0.04,0.71,0.25
+British Virgin Islands,0.37,0.28,0.35
+North Korea,,1,
+Cambodia,0.05,0.84,0.11
+Belize,0.07,0.64,0.29
+Réunion,,0.8,0.2
+Palau,,0.29,0.71
+Bahamas,0.07,0.44,0.49
+Bolivia,0.66,0.12,0.22
+Albania,0.01,0.83,0.16
+North Macedonia,,0.6,0.4
+Madagascar,0.04,0.63,0.33
+South Africa,0.48,0.48,0.04
+St. Martin,0.14,0.58,0.28
+Dominican Republic,0.01,0.14,0.85
+Singapore,0.38,0.49,0.13
+Kosovo,0.01,0.65,0.34
+Cook Islands,0.37,0.48,0.15
+Guam,0.02,0.54,0.44
+France,0.03,0.65,0.32
+Tunisia,,0.81,0.19
+French Polynesia,0.01,0.8,0.19
+Lebanon,0.06,0.6,0.34
+Bosnia & Herzegovina,,0.34,0.66
+Philippines,0.03,0.16,0.81
+Puerto Rico,0.01,0.19,0.8
+Armenia,0.02,0.84,0.14
+Malaysia,0.24,0.66,0.1
+Mauritania,0.02,0.86,0.12
+Aruba,0.07,0.57,0.36
+Laos,0.04,0.7,0.26
+Northern Mariana Islands,0.11,0.38,0.51
+Fiji,0.41,0.49,0.1
+New Caledonia,0.03,0.77,0.2
+Spain,0.04,0.24,0.72
+Luxembourg,0.04,0.68,0.28
+Cape Verde,0.05,0.58,0.37
+Slovenia,0.01,0.34,0.65
+Suriname,0.17,0.65,0.18
+Hong Kong,0.13,0.62,0.25
+Canada,0.14,0.51,0.35
+Andorra,0.03,0.29,0.68
+Uruguay,0.01,0.26,0.73
+Greenland,,0.86,0.14
+Algeria,0.01,0.82,0.17
+Thailand,0.03,0.32,0.65
+Morocco,0.01,0.76,0.23
+Caribbean Netherlands,0.15,0.56,0.29
+Israel,0.04,0.29,0.67
+Samoa,0.23,0.54,0.23
+St. Pierre & Miquelon,,0.84,0.16
+Western Sahara,,0.72,0.28
+Belgium,0.06,0.65,0.29
+Norway,0.1,0.71,0.19
+Croatia,0.01,0.47,0.52
+Macao,0.09,0.32,0.59
+Mozambique,0.15,0.58,0.27
+Portugal,0.06,0.62,0.32
+Georgia,0.03,0.62,0.35
+Curaçao,0.13,0.55,0.32
+São Tomé & Príncipe,,0.48,0.52
+Svalbard & Jan Mayen,,1,
+Mongolia,0.02,0.45,0.53
+Timor-Leste,0.1,0.66,0.24
+Angola,0.06,0.49,0.45
+Latvia,0.03,0.32,0.65
+Türkiye,0.01,0.2,0.79
+San Marino,,0.32,0.68
+Japan,0.03,0.05,0.92
+Venezuela,0.01,0.13,0.86
+Denmark,0.08,0.7,0.22
+Tonga,0.33,0.67,
+Papua New Guinea,0.41,0.35,0.24
+Switzerland,0.09,0.65,0.26
+Åland Islands,,0.81,0.19
+Estonia,0.03,0.5,0.47
+Italy,0.11,0.34,0.55
+Panama,0.05,0.34,0.61
+Sweden,0.08,0.66,0.26
+Indonesia,0.02,0.33,0.65
+Ecuador,0.01,0.16,0.83
+Taiwan,0.03,0.1,0.87
+Guatemala,0.01,0.23,0.76
+Bulgaria,0.02,0.6,0.38
+Argentina,0.02,0.22,0.76
+Turkmenistan,0.03,0.66,0.31
+Finland,0.05,0.56,0.39
+Azerbaijan,0.04,0.65,0.31
+Colombia,0.01,0.21,0.78
+Tajikistan,0.09,0.65,0.26
+Netherlands,0.13,0.59,0.28
+Honduras,0.02,0.36,0.62
+South Korea,0.17,0.28,0.55
+Uzbekistan,0.04,0.61,0.35
+Hungary,0.02,0.55,0.43
+Liechtenstein,,0.73,0.27
+Mexico,0.02,0.29,0.69
+Sudan,0.14,0.69,0.17
+Cuba,0.05,0.4,0.55
+Nicaragua,0.02,0.36,0.62
+Slovakia,0.02,0.45,0.53
+Costa Rica,0.02,0.43,0.55
+Peru,0.02,0.24,0.74
+Austria,0.11,0.54,0.35
+Germany,0.09,0.45,0.46
+El Salvador,0.02,0.35,0.63
+Jordan,0.16,0.49,0.35
+Romania,0.05,0.52,0.43
+Palestine,0.03,0.36,0.61
+Egypt,0.04,0.65,0.31
+Chile,0.02,0.3,0.68
+Czechia,0.05,0.49,0.46
+Iraq,0.22,0.55,0.23
+Moldova,0.03,0.56,0.41
+Ukraine,0.04,0.53,0.43
+Libya,0.18,0.57,0.25
+Kazakhstan,0.05,0.37,0.58
+Poland,0.05,0.46,0.49
+Brazil,0.02,0.31,0.67
+Paraguay,0.03,0.33,0.64
+Russia,0.06,0.26,0.68
+Belarus,0.04,0.33,0.63
+Iran,0.05,0.41,0.54
+Vietnam,0.06,0.43,0.51
+Kyrgyzstan,0.2,0.4,0.4
+Syria,0.03,0.47,0.5
+China,0.23,0.36,0.41
+Yemen,0.22,0.43,0.35
+Heard & McDonald Islands,,,
+Antarctica,,,
+Nauru,,,
+Norfolk Island,,,
+French Southern Territories,,,
+Bouvet Island,,,
+Cocos (Keeling) Islands,,,
+Christmas Island,,,
+Niue,,,
+Pitcairn Islands,,,
+South Georgia & South Sandwich Islands,,,
+Tokelau,,,
+Tuvalu,,,
+U.S. Outlying Islands,,,
+Vatican City,,,
+Wallis & Futuna,,,
